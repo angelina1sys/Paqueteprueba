@@ -14,5 +14,9 @@ RoxygenNote: 7.3.2
 Depends: 
     R (>= 2.10)
 LazyData: true
-URL: https://github.com/angelina1sys/Paqueteprueba
+URL: https://github.com/angelina1sys/Paqueteprueba, https://angelina1sys.github.io/Paqueteprueba/
 BugReports: https://github.com/angelina1sys/Paqueteprueba/issues
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr

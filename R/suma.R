@@ -16,6 +16,5 @@
 #' suma(1, 10)
 #'
 suma <- function(x, y) {
-  ifelse()
   x+y
 }
