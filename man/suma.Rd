@@ -7,19 +7,22 @@
 suma(x = 2, y = 2)
 }
 \arguments{
-\item{x}{es un vetor numerico}
+\item{x}{un vector numrico positivo}
 
-\item{y}{es un vector numerico}
+\item{y}{un vector numrico}
 }
 \value{
-Un vector numerico con la suma de \code{x} e \code{y}
+Un vector numerico con la suma de \code{x} e \code{y}.
 }
 \description{
-Esta función toma 2 numeros positivos y los suma.
-1
+La función \code{suma()} toma 2 números positivos y los suma.
+}
+\details{
+Estos son detalles extras de la función.
 }
 \examples{
 suma(2, 2)
 suma(1, 10)
+
 
 }
