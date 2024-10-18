@@ -6,8 +6,7 @@ Authors@R:
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: Este paquete no está pensado para ser instalado, es un paquete de juguete
     para aprender a desarrollar paquetes de r. Por favor no lo instalen.
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
@@ -22,5 +21,5 @@ Suggests:
     testthat (>= 3.0.0)
 VignetteBuilder: knitr
 Imports: 
-    dplyr
+    cli
 Config/testthat/edition: 3
