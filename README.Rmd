@@ -16,6 +16,7 @@ knitr::opts_chunk$set(
 # Paqueteprueba
 
 <!-- badges: start -->
+[![R-CMD-check](https://github.com/angelina1sys/Paqueteprueba/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/angelina1sys/Paqueteprueba/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 El objetivo del paquete Paqueteprueba es mostrar como se crea un paquete con uns funcion de suma de ejemplo.
