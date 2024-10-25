@@ -6,7 +6,7 @@ Authors@R:
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: Este paquete no está pensado para ser instalado, es un paquete de juguete
     para aprender a desarrollar paquetes de r. Por favor no lo instalen.
-License: MIT + file LICENSE
+License: CC BY 4.0
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
